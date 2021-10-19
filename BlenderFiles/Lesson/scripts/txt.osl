@@ -1,0 +1,4 @@
+shader blog(float input1 = 0, float input2 = 0, output float out = 1)
+{
+    out = input1 + input2;
+}
